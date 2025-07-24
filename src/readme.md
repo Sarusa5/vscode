@@ -1,10 +1,11 @@
-Lorem Ipsum is simply dummy text cool the printing and typesetting industry
-Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
-when an unknown printer took a galley cool type and scrambled it to make a
-typespecimen book. 
-It has survived not only five centuries, but also the leap into electronic
-stypesetting, remaining essentially unchanged.
-It was popularised in the 1960s with the release cool Letraset sheets containing Lorem Ipsum passages, 
-and more recently with desktop publishing software like 
-Aldus PageMaker including versions cool Lorem Ipsum.
-
+There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form,
+by injected humour, or randomised words which don't look even slightly believable. If you are going
+to use cool passage of Lorem Ipsum,
+you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem
+Ipsum generators on the
+Internet tend to repeat predefined chunks as necessary, making this the first true generator on the
+Internet.
+It uses cool dictionary of over 200 Latin words, combined with cool handful of model sentence structures, to generate Lorem
+Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition,
+injected humour,
+or non-characteristic words etc.
